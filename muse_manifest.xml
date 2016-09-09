@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.matheusmadeira.com.br" resolutions="1x" timestamp="1473357561121">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.matheusmadeira.com.br" resolutions="1x" timestamp="1473444152689">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_a-mestre.css" crc="4181171218" ref="cultura:index:esporte"/>
-    <file name="nomq_preview_master_a-mestre.css" crc="3824530138" ref="cultura:index:esporte"/>
-    <file name="cultura.css" crc="4026738852" ref="cultura"/>
-    <file name="nomq_cultura.css" crc="395617972" ref="cultura"/>
-    <file name="index.css" crc="3824623800" ref="index"/>
-    <file name="nomq_index.css" crc="3886056190" ref="index"/>
-    <file name="esporte.css" crc="292243250" ref="esporte"/>
-    <file name="nomq_esporte.css" crc="500742123" ref="esporte"/>
+    <file name="master_a-mestre.css" crc="3911621071" ref="esporte:index:cultura"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="3824530138" ref="esporte:index:cultura"/>
+    <file name="esporte.css" crc="42111894" ref="esporte"/>
+    <file name="nomq_esporte.css" crc="4221196767" ref="esporte"/>
+    <file name="index.css" crc="66223915" ref="index"/>
+    <file name="nomq_index.css" crc="184150037" ref="index"/>
+    <file name="cultura.css" crc="44310380" ref="cultura"/>
+    <file name="nomq_cultura.css" crc="41429310" ref="cultura"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:esporte:cultura"/>
@@ -38,32 +38,20 @@
     <file name="ativo 2.png" crc="154711870" seo="true" ref="index"/>
     <file name="depositphotos_2593316_original_desfoque_verde.jpg" crc="4198601573" ref="index"/>
     <file name="matheus_olavio_akilson.jpg" crc="493057248" ref="index"/>
-    <file name="u6757-4.png" crc="3962725129" ref="index"/>
     <file name="unisul-tv-esporte-2.jpg" crc="404193137" ref="index"/>
-    <file name="u1295-4.png" crc="4067467848" ref="index"/>
-    <file name="u1765-4.png" crc="4179941539" ref="index"/>
     <file name="basquete_matheus_vt.png" crc="233128359" seo="true" ref="index:esporte"/>
     <file name="ativo 10-.png" crc="306211802" seo="true" ref="index"/>
     <file name="ativo 16cultura e esporte.png" crc="3972669892" seo="true" ref="index"/>
     <file name="atleta_paraolimpico_correndo.png" crc="189237268" seo="true" ref="index:esporte"/>
-    <file name="u1858-4.png" crc="375356056" ref="index"/>
     <file name="ativo 11-.png" crc="4101424446" seo="true" ref="index"/>
     <file name="bailarina_verde.jpg" crc="3846832362" seo="true" ref="index"/>
-    <file name="u8008-4.png" crc="313252647" ref="index"/>
     <file name="ativo 17cultura e esporte.png" crc="3811698135" seo="true" ref="index"/>
     <file name="bandeiras.jpg" crc="3929444706" seo="true" ref="index:cultura"/>
-    <file name="u3399-4.png" crc="4097719383" ref="index"/>
     <file name="icones_midias.jpg" crc="52350015" seo="true" ref="index"/>
     <file name="ativo 9logo olavio.png" crc="301108080" seo="true" ref="index"/>
     <file name="ativo 1botao subir.png" crc="409832318" seo="true" ref="index:esporte"/>
     <file name="ativo 8botao subir-crop-u6131.png" crc="4174009910" ref="index"/>
     <file name="ativo 7botao subir.png" crc="4138895970" seo="true" ref="index"/>
-    <file name="u6757-42.png" crc="224096658" ref="index"/>
-    <file name="u1295-42.png" crc="290139287" ref="index"/>
-    <file name="u1765-42.png" crc="3883317034" ref="index"/>
-    <file name="u1858-42.png" crc="3884058083" ref="index"/>
-    <file name="u8008-42.png" crc="4110679108" ref="index"/>
-    <file name="u3399-42.png" crc="355807683" ref="index"/>
     <file name="ativo 8botao subir-crop-u61312.png" crc="332863049" ref="index"/>
     <file name="ativo 3-crop-u1358.png" crc="4063893905" ref="index:esporte:cultura"/>
     <file name="natação818x377.jpg" crc="3835789744" seo="true" ref="index"/>
@@ -73,106 +61,65 @@
     <file name="matheus_site_2568x438.png" crc="3940355827" seo="true" ref="index"/>
     <file name="matheus_olavio_akilson-u6739-fr.jpg" crc="4199542035" ref="index"/>
     <file name="unisul-tv-esporte-2-u5304-fr.jpg" crc="30380425" ref="index"/>
-    <file name="u1295-43.png" crc="4274095312" ref="index"/>
-    <file name="u6757-43.png" crc="418979018" ref="index"/>
     <file name="corredor_por-do-sol679x313.jpg" crc="322125195" seo="true" ref="index"/>
-    <file name="u1765-43.png" crc="4238732170" ref="index"/>
     <file name="basquete_matheus_vt376x465.png" crc="393266452" seo="true" ref="index"/>
     <file name="atleta_paraolimpico_correndo439x489.png" crc="189237268" seo="true" ref="index"/>
-    <file name="u1858-43.png" crc="4117732401" ref="index"/>
     <file name="bailarina_verde633x292.jpg" crc="4037761086" seo="true" ref="index"/>
-    <file name="u8008-43.png" crc="376206475" ref="index"/>
     <file name="bandeiras608x212.jpg" crc="426538354" seo="true" ref="index"/>
-    <file name="u3399-43.png" crc="4006166098" ref="index"/>
     <file name="ativo 8botao subir-crop-u61313.png" crc="4286014190" ref="index"/>
     <file name="natação-crop-u7380.jpg" crc="4173312861" ref="index"/>
     <file name="corredor_por-do-sol782x360.jpg" crc="4199609436" seo="true" ref="index"/>
     <file name="corredor_paraolimpico-crop-u7296.jpg" crc="3924055344" ref="index"/>
     <file name="crianças_laranja-crop-u7338.jpg" crc="73932296" ref="index"/>
     <file name="matheus_site_2430x332.png" crc="4007445653" seo="true" ref="index"/>
-    <file name="u6757-44.png" crc="3924975224" ref="index"/>
-    <file name="u1295-44.png" crc="21009564" ref="index"/>
     <file name="corredor_por-do-sol478x220.jpg" crc="136687880" seo="true" ref="index"/>
-    <file name="u1765-44.png" crc="4245540162" ref="index"/>
     <file name="basquete_matheus_vt238x293.png" crc="3844623173" seo="true" ref="index"/>
-    <file name="u1858-44.png" crc="4151778920" ref="index"/>
     <file name="atleta_paraolimpico_correndo328x365.png" crc="4144080492" seo="true" ref="index"/>
     <file name="bailarina_verde445x205.jpg" crc="336520606" seo="true" ref="index"/>
-    <file name="u8008-44.png" crc="4115292272" ref="index"/>
     <file name="bandeiras532x185.jpg" crc="66127570" seo="true" ref="index"/>
-    <file name="u3399-44.png" crc="3949554828" ref="index"/>
     <file name="ativo 8botao subir-crop-u61314.png" crc="4083174042" ref="index"/>
-    <file name="u5352-4.png" crc="196630556" ref="esporte"/>
     <file name="ativo 20esporte.png" crc="386777785" seo="true" ref="esporte"/>
+    <file name="ativo 22projeto.png" crc="256807154" seo="true" ref="esporte"/>
     <file name="icones_esporte_volei.jpg" crc="248073090" seo="true" ref="esporte"/>
     <file name="icones_esporte_ciclismo.jpg" crc="318888842" seo="true" ref="esporte"/>
     <file name="icones_esporte_natacao.jpg" crc="284458813" seo="true" ref="esporte"/>
     <file name="icones_esporte_tenis.jpg" crc="433748032" seo="true" ref="esporte"/>
     <file name="menina_jardim.jpg" crc="3974253385" seo="true" ref="esporte"/>
-    <file name="u5376-4.png" crc="4062525041" ref="esporte"/>
     <file name="ativo 19parades.png" crc="500305633" seo="true" ref="esporte"/>
     <file name="u6779-4.png" crc="3882527722" ref="esporte"/>
-    <file name="u6793-6.png" crc="4273986259" ref="esporte"/>
     <file name="depositphotos_101035238-unidentified-people-play-a-friendly.jpg" crc="241551297" ref="esporte"/>
-    <file name="u6790-4.png" crc="231732503" ref="esporte"/>
-    <file name="u6791-4.png" crc="92557593" ref="esporte"/>
-    <file name="u6792-7.png" crc="109024593" ref="esporte"/>
     <file name="ativo 13tabelas.png" crc="412347502" seo="true" ref="esporte"/>
     <file name="ativo 15tabelas.png" crc="277543686" seo="true" ref="esporte"/>
     <file name="ativo 14tabelas.png" crc="3972781498" seo="true" ref="esporte"/>
     <file name="ativo 3botao subir.png" crc="3785578545" seo="true" ref="esporte"/>
     <file name="ativo 2botao subir.png" crc="3781890431" seo="true" ref="esporte:cultura"/>
-    <file name="u5352-42.png" crc="4029825185" ref="esporte"/>
     <file name="ativo 20esporte478x242.png" crc="413866110" seo="true" ref="esporte"/>
     <file name="basquete_matheus_vt289x357.png" crc="438995427" seo="true" ref="esporte"/>
-    <file name="u5376-42.png" crc="272707959" ref="esporte"/>
     <file name="menina_jardim573x487.jpg" crc="350571111" seo="true" ref="esporte"/>
     <file name="ativo 19parades373x248.png" crc="3822464005" seo="true" ref="esporte"/>
     <file name="u6779-42.png" crc="3988144257" ref="esporte"/>
     <file name="atleta_paraolimpico_correndo325x362.png" crc="4149845417" seo="true" ref="esporte"/>
-    <file name="u6793-62.png" crc="4043292856" ref="esporte"/>
-    <file name="u6790-42.png" crc="3999212531" ref="esporte"/>
-    <file name="u6791-42.png" crc="4171195135" ref="esporte"/>
-    <file name="u6792-72.png" crc="3960047651" ref="esporte"/>
     <file name="ativo 13tabelas161x130.png" crc="421727239" seo="true" ref="esporte"/>
     <file name="ativo 15tabelas121x131.png" crc="4248515043" seo="true" ref="esporte"/>
-    <file name="u5352-43.png" crc="169372903" ref="esporte"/>
     <file name="ativo 20esporte336x171.png" crc="338210084" seo="true" ref="esporte"/>
     <file name="basquete_matheus_vt341x421.png" crc="387168293" seo="true" ref="esporte"/>
-    <file name="u5376-43.png" crc="410221713" ref="esporte"/>
     <file name="menina_jardim403x342.jpg" crc="459495704" seo="true" ref="esporte"/>
     <file name="ativo 19parades262x174.png" crc="282898614" seo="true" ref="esporte"/>
     <file name="u6779-43.png" crc="420451474" ref="esporte"/>
     <file name="atleta_paraolimpico_correndo256x285.png" crc="208711997" seo="true" ref="esporte"/>
-    <file name="u6793-63.png" crc="277331228" ref="esporte"/>
-    <file name="u6790-43.png" crc="4235050761" ref="esporte"/>
     <file name="ativo 13tabelas267x217.png" crc="3763085498" seo="true" ref="esporte"/>
-    <file name="u6792-73.png" crc="4106786012" ref="esporte"/>
-    <file name="u6791-43.png" crc="4173548745" ref="esporte"/>
     <file name="ativo 15tabelas141x152.png" crc="4075628537" seo="true" ref="esporte"/>
     <file name="ativo-21cultura.jpg" crc="3896143548" seo="true" ref="cultura"/>
     <file name="investimento_cultura.jpg" crc="342793990" seo="true" ref="cultura"/>
-    <file name="u5596-6.png" crc="3885569991" ref="cultura"/>
-    <file name="u7879-4.png" crc="4047813926" ref="cultura"/>
     <file name="casa-da-cidade.jpg" crc="3893335387" seo="true" ref="cultura"/>
-    <file name="u7905-4.png" crc="85309498" ref="cultura"/>
-    <file name="u7922-4.png" crc="94642757" ref="cultura"/>
     <file name="ativo-21cultura572x320.jpg" crc="326992559" seo="true" ref="cultura"/>
-    <file name="u5596-62.png" crc="77691928" ref="cultura"/>
-    <file name="u7879-42.png" crc="4252975195" ref="cultura"/>
     <file name="investimento_cultura665x565.jpg" crc="4182901584" seo="true" ref="cultura"/>
     <file name="casa-da-cidade614x522.jpg" crc="3851124965" seo="true" ref="cultura"/>
-    <file name="u7905-42.png" crc="3801174288" ref="cultura"/>
-    <file name="u7922-42.png" crc="312806754" ref="cultura"/>
     <file name="ativo-21cultura417x233.jpg" crc="3939949189" seo="true" ref="cultura"/>
-    <file name="u5596-63.png" crc="4138439233" ref="cultura"/>
-    <file name="u7879-43.png" crc="524048124" ref="cultura"/>
     <file name="investimento_cultura371x315.jpg" crc="403963427" seo="true" ref="cultura"/>
     <file name="casa-da-cidade402x341.jpg" crc="484820143" seo="true" ref="cultura"/>
-    <file name="u7905-43.png" crc="3788927729" ref="cultura"/>
-    <file name="u7922-43.png" crc="205623663" ref="cultura"/>
   </folder>
-  <file name="index.html" crc="113382228" seo="true" mt="1473191417597" redirect="true"/>
-  <file name="esporte.html" crc="4108062057" seo="true" mt="1473191417597" redirect="true"/>
-  <file name="cultura.html" crc="79072048" seo="true" mt="1473357351969" redirect="true"/>
+  <file name="index.html" crc="3925150372" seo="true" mt="1473444143279" redirect="true"/>
+  <file name="esporte.html" crc="231018167" seo="true" mt="1473444143279" redirect="true"/>
+  <file name="cultura.html" crc="4045402719" seo="true" mt="1473444143279" redirect="true"/>
 </manifest>
